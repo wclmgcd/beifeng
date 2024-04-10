@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "announce",
+        "torrent",
+        "tracker"
+      ]
+    },
+    {
+      "domain_suffix": [
+		".broadcasthe.net",
+		".chdbits.co",
+		".classix-unlimited.co.uk",
+		".empornium.me",
+		".gazellegames.net",
+		".hdchina.org",
+		".hdsky.me",
+		".icetorrent.org",
+		".jpopsuki.eu",
+		".keepfrds.com",
+		".madsrevolution.net",
+		".m-team.cc",
+		".nanyangpt.com",
+		".ncore.cc",
+		".open.cd",
+		".ourbits.club",
+		".passthepopcorn.me",
+		".privatehd.to",
+		".redacted.ch",
+		".springsunday.net",
+		".tjupt.org",
+		".totheglory.im",
+		".smtp",
+		".mozilla.com",
+		".firefox.com"
+      ]
+    }
+  ]
+}

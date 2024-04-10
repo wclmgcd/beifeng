@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "pincong",
+        "bannedbook"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".idev.dev",
+        ".cool18.com",
+        ".4ksw.com",
+        ".gitbook.io",
+        ".bulianglin.com",
+        ".pincong.rocks",
+        ".reddit.com",
+        ".timednews.com",
+        ".creaders.net",
+		".e-hentai.org",
+        ".ehgt.org",
+		".ehtracker.org",
+        ".ehwiki.org",
+        ".exhentai.org",
+        ".hath.network",
+        ".hentaiathome.net",
+        ".hentaiverse.org",
+        ".bcbay.com",
+        ".v2ex.com",
+		".botanwang.com",
+        ".githubusercontent.com",
+        ".onedrive.live.com",
+        ".nychinaren.com",
+        ".vochinese.com",
+        ".chinesepen.org"
+      ]
+    }
+  ]
+}
